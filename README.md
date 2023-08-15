@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ML, DL.
+- 💼 I’m currently studying EE in NYCU.
+- 🌱 I’m currently exploring ML, DL.
+- 😄 My interest is learning new algorithms.
 - 💬 Ask me about anything.
 - 📫 How to reach me: pohan.ee11@nycu.edu.tw
 
