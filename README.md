@@ -1,11 +1,14 @@
 ### Hi, I'm Pohan 👋
 
-### Informations about me
+#### Informations about me
 - 💼 I’m currently studying EE in NYCU.
 - 🌱 I’m currently exploring ML, DL.
 - 😄 My interest is learning new algorithms.
 - 💬 Ask me about anything.
 - 📫 Contact me: pohan.ee11@nycu.edu.tw
+
+- [![Languages](https://skillicons.dev/icons?i=c,cpp,py,css,react,html,js&theme=light)](https://skillicons.dev)
+- [![Tools](https://skillicons.dev/icons?i=github,latex,linux,matlab,pytorch,stackoverflow,vscode&theme=light)](https://skillicons.dev)
 
 <!--
 **pohan0430/pohan0430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
