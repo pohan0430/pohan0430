@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi, I'm Pohan 👋
+
+### Informations about me
 - 💼 I’m currently studying EE in NYCU.
 - 🌱 I’m currently exploring ML, DL.
 - 😄 My interest is learning new algorithms.
 - 💬 Ask me about anything.
-- 📫 How to reach me: pohan.ee11@nycu.edu.tw
+- 📫 Contact me: pohan.ee11@nycu.edu.tw
 
 <!--
 **pohan0430/pohan0430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
