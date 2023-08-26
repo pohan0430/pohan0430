@@ -3,7 +3,7 @@
 #### Informations about me
 - 💼 I’m currently studying EE in NYCU.
 - 🌱 I’m currently exploring ML, DL.
-- 😄 My interest is learning new algorithms.
+- 😄 My interest is learning new programming skills.
 - 💬 Ask me about anything.
 - 📫 Contact me: pohan.ee11@nycu.edu.tw
 
